@@ -5,6 +5,7 @@ class Solution {
 
         for(int i:nums){
 
+            
             if(i<=first){
                 first=i;
             }
